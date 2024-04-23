@@ -6,4 +6,3 @@ class Man:
     def sey(self):
         print(self.length)
 
-#ssssssssssssssssssssssss
